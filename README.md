@@ -1,4 +1,4 @@
-# Image Compression Tool
+# Image Compression Tool using Python (Jupyter Notebook)
 
 Welcome to our Image Compression Tool! This tool is designed to help you compress images efficiently and effectively, reducing their file sizes without sacrificing too much quality. Whether you're a developer looking to optimize website performance or simply someone who wants to save storage space, this tool has got you covered.
 
@@ -23,35 +23,24 @@ Welcome to our Image Compression Tool! This tool is designed to help you compres
 
 ### Prerequisites
 
-- Make sure you have [Python](https://www.python.org/downloads/) installed on your system.
+- Make sure you have Jupyter Notebook installed. If not, you can install it via Anaconda or using pip:
+
+```bash
+pip install notebook
+```
 
 ### Setup
 
-1. Clone this repository:
+1. Clone or download this repository to your local machine.
+2. Launch Jupyter Notebook:
 
-   ```bash
-   git clone https://github.com/your-username/image-compression.git
-   ```
+```bash
+jupyter notebook
+```
 
-2. Navigate to the project directory:
-
-   ```bash
-   cd image-compression
-   ```
-
-3. Install dependencies:
-
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-4. Run the application:
-
-   ```bash
-   python app.py
-   ```
-
-5. Access the application through your web browser at `http://localhost:5000`.
+3. Navigate to the directory where you have cloned/downloaded this repository.
+4. Open the `Image_Compression_Tool.ipynb` notebook.
+5. Follow the instructions within the notebook to run the Image Compression Tool.
 
 ## Contribution
 
